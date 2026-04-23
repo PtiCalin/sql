@@ -1,4 +1,4 @@
-# PtiCalin/sql — Le référentiel SQL personnel
+# SQL
 
 Ce répositoire centralise toutes mes connaissances, ressources, exemples, exercices et outils liés à SQL, dans une structure claire, évolutive et facile à naviguer.
 
