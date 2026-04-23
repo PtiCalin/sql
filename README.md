@@ -1,10 +1,10 @@
 # Base de données & SQL — Base de connaissances
 
-Dépôt centralisé pour l'apprentissage et la maîtrise de SQL, des bases de données relationnelles et de la conception de schémas. Structure pédagogique progressive, fondée sur des principes éprouvés.
+Repositoire centralisé pour l'apprentissage et la maîtrise de SQL, des bases de données relationnelles et de la conception de schémas. Structure pédagogique progressive, fondée sur des principes éprouvés.
 
 ---
 
-## Structure du dépôt
+## Structure
 
 ```
 sql/
